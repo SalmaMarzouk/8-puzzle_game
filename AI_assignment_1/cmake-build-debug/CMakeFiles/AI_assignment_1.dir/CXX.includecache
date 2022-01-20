@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/salma/CLionProjects/AI_assignment_1/AI_assignment_1.cpp
+iostream
+-
+string
+-
+unordered_set
+-
+unordered_map
+-
+vector
+-
+queue
+-
+chrono
+-
+stack
+-
+set
+-
+
